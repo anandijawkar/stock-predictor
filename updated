@@ -1,0 +1,14 @@
+{
+    "cells": [
+     {
+      "cell_type": "code",
+      "execution_count": 4,
+      "id": "f53fcbbf-a62d-4aa2-be7b-9aa4e17a5e48",
+      "metadata": {},
+      "outputs": [],
+      "source": [
+       "import yfinance as yf\n",
+       "import pandas as pd\n",
+       "import os"
+      ]
+     },]}
